@@ -1,0 +1,35 @@
+body {
+    background: white
+    color:black;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: 1000;
+    margin-top: 150px;
+    
+}
+
+img {
+    width: 600px;
+    height: 200px;
+    /* align-content: center;
+    margin-top: 150px; */
+}
+
+input {
+    width: 400px;
+    height: 25px;
+    border-radius: 23px;
+    border-color: white;
+    /* align-items: center;
+    margin-top: 600px; */
+}
+
+button {
+    width: 125px;
+    height: 25px;
+    border: 2px;
+    border-color: black;
+    color: black;
+    border-radius: 15px;
+}
