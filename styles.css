@@ -1,3 +1,7 @@
+div {
+    margin-top: 150px;
+}
+
 body {
     background: white
     color:black;
@@ -12,8 +16,7 @@ body {
 img {
     width: 600px;
     height: 200px;
-    /* align-content: center;
-    margin-top: 150px; */
+    /* align-content: center;*/
 }
 
 input {
