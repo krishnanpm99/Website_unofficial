@@ -13,26 +13,26 @@ body {
     
 }
 
-img {
+.logo-png {
     width: 600px;
     height: 200px;
-    /* align-content: center;*/
+    display: block;
 }
 
-input {
+.search-input {
     width: 400px;
     height: 25px;
     border-radius: 23px;
     border-color: white;
-    /* align-items: center;
-    margin-top: 600px; */
+    display: block;
 }
 
-button {
+.buttons {
     width: 125px;
     height: 25px;
     border: 2px;
     border-color: black;
     color: black;
     border-radius: 15px;
+    display: inline;
 }
